@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Marwan
 # 💫 About Me:
-🎓 Computer Science Graduate<br>💻 Mobile App Developer using Flutter 
+🎓 Computer Science Graduate<br>💻 Flutter & Django Developer using Flutter 
 
 
 ## 🌐 Socials:
